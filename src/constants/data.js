@@ -8,7 +8,7 @@ const wines = [
   },
   {
     title: 'Catena Malbee',
-    price: '$59',
+    price: '$58',
     tags: 'AU | Bottle',
   },
   {
