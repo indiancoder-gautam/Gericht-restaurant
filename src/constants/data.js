@@ -13,7 +13,7 @@ const wines = [
   },
   {
     title: 'La Vieillw Rose',
-    price: '$44',
+    price: '$45',
     tags: 'FR | 750 ml',
   },
   {
