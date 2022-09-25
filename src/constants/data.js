@@ -19,7 +19,7 @@ const wines = [
   {
     title: 'Rhino Pale Ale',
     price: '$31',
-    tags: 'CA | 750 ml',
+    tags: 'CA | 650 ml',
   },
   {
     title: 'Irish Guinness',
